@@ -1,0 +1,21 @@
+.container {
+    max-width: 70ch;
+}
+
+.center {
+    text-align: center;
+}
+
+.no-border,
+.no-border:focus {
+    border: none;
+}
+
+.no-outline,
+.no-outline:focus {
+    outline: none;
+}
+
+.full-width {
+    width: 100%;
+}

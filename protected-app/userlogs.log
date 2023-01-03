@@ -1,0 +1,46 @@
+2023-01-03 01:24:35 -- admin: Entered incorrect username or password.
+2023-01-03 01:25:23 -- admin: Logged in successfully.
+2023-01-03 01:25:23 -- admin: Entered homepage.
+2023-01-03 01:25:28 -- admin: Entered userlists page.
+2023-01-03 01:28:50 -- admin: Logging out.
+2023-01-03 01:28:56 -- AnonymousUser: tried to enter homepage without logging in!
+2023-01-03 01:28:56 -- AnonymousUser: Entered homepage.
+2023-01-03 01:29:03 -- AnonymousUser: Entered incorrect username or password.
+2023-01-03 01:29:13 -- admin: Logged in successfully.
+2023-01-03 01:29:13 -- admin: Entered homepage.
+2023-01-03 01:29:16 -- admin: Entered userlists page.
+2023-01-03 01:30:49 -- admin: Entered userlists page.
+2023-01-03 01:31:07 -- admin: Entered userlists page.
+2023-01-03 01:31:38 -- admin: Entered userlists page.
+2023-01-03 01:32:28 -- admin: Entered userlists page.
+2023-01-03 01:33:37 -- admin: Logging out.
+2023-01-03 01:45:11 -- AnonymousUser: Entered incorrect username or password.
+2023-01-03 01:45:36 -- admin: Logged in successfully.
+2023-01-03 01:45:36 -- admin: Entered homepage.
+2023-01-03 01:46:11 -- admin: Logging out.
+2023-01-03 01:46:18 -- shabab: Logged in successfully.
+2023-01-03 01:46:18 -- shabab: Entered homepage.
+2023-01-03 01:46:40 -- shabab: Successfully added new note.
+2023-01-03 01:46:40 -- shabab: Being redirected to homepage.
+2023-01-03 01:46:40 -- shabab: Entered homepage.
+2023-01-03 01:46:44 -- shabab: Logging out.
+2023-01-03 01:46:56 -- jane: Logged in successfully.
+2023-01-03 01:46:56 -- jane: Entered homepage.
+2023-01-03 01:47:08 -- jane: Entered userslist page.
+2023-01-03 01:47:21 -- jane: Logging out.
+2023-01-03 01:47:29 -- admin: Logged in successfully.
+2023-01-03 01:47:29 -- admin: Entered homepage.
+2023-01-03 01:47:36 -- admin: Entered userlists page.
+2023-01-03 01:48:19 -- admin: Logging out.
+2023-01-03 01:48:27 -- shabab: Logged in successfully.
+2023-01-03 01:48:27 -- shabab: Entered homepage.
+2023-01-03 01:48:35 -- shabab: Tried to access userslist page without access.
+2023-01-03 01:48:35 -- shabab: Entered userslist page.
+2023-01-03 01:48:37 -- shabab: Entered homepage.
+2023-01-03 01:48:42 -- shabab: Tried to access users logs without access.
+2023-01-03 01:48:42 -- shabab: Entered userlists page.
+2023-01-03 01:48:44 -- shabab: Entered homepage.
+2023-01-03 01:48:45 -- shabab: Logging out.
+2023-01-03 01:48:50 -- admin: Logged in successfully.
+2023-01-03 01:48:50 -- admin: Entered homepage.
+2023-01-03 01:48:52 -- admin: Entered userlists page.
